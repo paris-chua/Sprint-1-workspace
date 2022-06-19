@@ -1,0 +1,3 @@
+Yay, I got code . working by googling for the answer! 
+I uninstalled code . and reinstalled it, 
+restart the Terminal  and it's working!
